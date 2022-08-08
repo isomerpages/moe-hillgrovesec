@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Student Matters/School Timetable.md
       - Student Matters/School Booklist & Stationery.md
       - Student Matters/School Rules & Regulations.md
       - Student Matters/School Calender.md
