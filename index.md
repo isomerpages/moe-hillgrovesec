@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Hillgrove Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Hillgrove_Secondary_School_Logo.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /school-events/
 ---
+
