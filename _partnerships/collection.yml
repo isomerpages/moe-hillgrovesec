@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - Parent Support Group (PSG)/Overview.md
       - Parent Support Group (PSG)/.keep
       - Alumni.md
