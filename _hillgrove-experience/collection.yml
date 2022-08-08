@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - National Digital Literacy/.keep
       - Hillgrove Open House/Overview.md
       - Hillgrove Open House/Distinctive Programmes.md
       - Hillgrove Open House/Co Curricular Activities Offered.md
