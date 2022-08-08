@@ -11,3 +11,20 @@ links:
         url: /about-us/organisation-chart/
       - title: School History
         url: /about-us/school-history/
+  - title: Hillgrove Experience
+    url: /hillgrove-experience/
+    sublinks:
+      - title: Departments
+        url: /hillgrove-experience/
+      - title: Co-Curricular Activities
+        url: /hillgrove-experience/cca/
+      - title: Distinctive Programmes
+        url: /hillgrove-experience/distinctive-programmes/
+      - title: National Digital Literacy Prog
+        url: /hillgrove-experience/ndlp/
+      - title: Hillgrove Open House
+        url: /hillgrove-experience/open-house/
+      - title: Secondary 1 Welcome Microsite
+        url: /hillgrove-experience/sec-1-welcome-microsite/
+      - title: Direct School Admission
+        url: /hillgrove-experience/dsa/
