@@ -2,5 +2,6 @@ collections:
   student-admin:
     output: true
     order:
+      - Home Based Learning/For Secondary 3 Students.md
       - Home Based Learning/.keep
       - Reset Student Account.md
