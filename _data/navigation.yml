@@ -28,3 +28,16 @@ links:
         url: /hillgrove-experience/sec-1-welcome-microsite/
       - title: Direct School Admission
         url: /hillgrove-experience/dsa/
+  - title: Partnerships
+    url: /partnerships/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partnerships/
+      - title: Parents Support Group
+        url: /partnerships/psg/
+      - title: Hillgrove Alumni
+        url: /partnerships/alumni/
+      - title: Parents Page
+        url: /partnerships/parents-page/
+      - title: Links
+        url: /partnerships/links/
