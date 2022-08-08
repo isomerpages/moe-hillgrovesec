@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Character Development/ECG Counsellor Booking.md
       - Character Development/.keep
       - Student Leadership.md
       - Sustainable Environment Education.md
