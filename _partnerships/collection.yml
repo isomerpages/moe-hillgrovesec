@@ -2,7 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Parents Page/Hillgrove Alumni.md
       - Parents Page/Overview.md
       - Parents Page/Frequently Asked Questions.md
       - Parents Page/.keep
