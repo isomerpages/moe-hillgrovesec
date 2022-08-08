@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Organisation Chart.md
       - Principal's Message.md
       - School Overview.md
       - Organisation Chart/.keep
+      - Organisation Chart.md
       - School History/.keep
