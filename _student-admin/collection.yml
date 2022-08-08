@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Character Development/Overview.md
       - Character Development/Sexuality Education.md
       - Character Development/Education & Career Guidance.md
       - Character Development/ECG Counsellor Booking.md
