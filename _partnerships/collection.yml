@@ -2,7 +2,7 @@ collections:
   partnerships:
     output: true
     order:
-      - Parents Page/Parents Page.md
+      - Parents Page/Overview.md
       - Parents Page/Frequently Asked Questions.md
       - Parents Page/.keep
       - Links/Staff.md
