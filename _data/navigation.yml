@@ -45,7 +45,7 @@ links:
     url: /student-admin/
     sublinks:
       - title: Student Matters
-        url: /student-admin/student-matters/
+        url: /student-admin/Student-Matters/
       - title: Exam Matters
         url: /student-admin/Exam-Matters/
       - title: Character Development
