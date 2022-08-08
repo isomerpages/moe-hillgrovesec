@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Links/Staff.md
       - Links/Parents.md
       - Links/Students.md
       - Links/.keep
