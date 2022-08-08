@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/.keep
       - School History/.keep
