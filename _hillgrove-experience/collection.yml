@@ -2,6 +2,8 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - National Digital Literacy/Click here for Frequently Asked Questions on
+        NDLP.md
       - National Digital Literacy/.keep
       - Hillgrove Open House/Overview.md
       - Hillgrove Open House/Distinctive Programmes.md
