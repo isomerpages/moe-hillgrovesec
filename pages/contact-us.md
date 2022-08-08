@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: +65 6560 3726
       - email: ""
-      - other: "[ hillgrove_ss@moe.edu.sg](mailto: hillgrove_ss@moe.edu.sg)"
+      - other: " hillgrove_ss@moe.edu.sg"
     title: General Enquiries & Feedback
   - content:
       - phone: ""
@@ -24,5 +24,5 @@ contacts:
           the subject teacher they wish to communicate with, email to the
           school’s generic email address hillgrove_ss@moe.edu.sg stating clearly
           the class and subject teacher they wish their message be conveyed to.
-    title: ""
+    title: Note
 ---
