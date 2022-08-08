@@ -2,12 +2,12 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Co Curricular Activties/.keep
+      - Co Curricular Activties/Overview.md
       - Co Curricular Activties/Aesthetics Groups.md
       - Co Curricular Activties/Clubs & Societies.md
       - Co Curricular Activties/Sports & Games.md
       - Co Curricular Activties/Uniformed Groups.md
-      - Co Curricular Activties/Overview.md
-      - Co Curricular Activties/.keep
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/.keep
