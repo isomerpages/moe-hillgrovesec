@@ -41,3 +41,22 @@ links:
         url: /partnerships/parents-page/
       - title: Links
         url: /partnerships/links/
+  - title: Student Admin
+    url: /student-admin/
+    sublinks:
+      - title: Student Matters
+        url: /student-admin/student-matters/
+      - title: Exam Matters
+        url: /student-admin/exam-matters/
+      - title: Character Development
+        url: /student-admin/character-development/
+      - title: Student Leadership
+        url: /student-admin/student-leadership/
+      - title: Sustainable Environment Edu
+        url: /student-admin/sustainable-environment-education/
+      - title: NEST Portal
+        url: /student-admin/nest-portal/
+      - title: Home-Based Learning
+        url: /student-admin/hbl/
+      - title: Reset Student Account
+        url: /student-admin/reset-student-account/
