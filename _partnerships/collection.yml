@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Alumni.md
       - Parents Page/Overview.md
       - Parents Page/Frequently Asked Questions.md
       - Parents Page/.keep
