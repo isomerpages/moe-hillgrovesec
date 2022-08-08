@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Exam Matters/Exam Timetables.md
       - Exam Matters/Rules & Regulations for School Candidates.md
       - Exam Matters/National Exam Matters.md
       - Exam Matters/Important Links.md
