@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Hillgrove Secondary
-      background: /images/hero-banner.png
+      background: /images/hillgrove hero banner.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -19,4 +19,3 @@ sections:
           description: ""
           url: /school-events/
 ---
-
