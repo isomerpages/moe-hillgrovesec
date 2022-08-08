@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education.md
       - Departments/Science.md
