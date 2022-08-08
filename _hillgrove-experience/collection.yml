@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Departments/Applied Subjects and Design & Technology.md
       - Departments/Character Development & Guidance.md
       - Departments/English Language & Literature.md
       - Departments/Humanities.md
