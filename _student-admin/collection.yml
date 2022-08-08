@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Student Matters/School Calender.md
       - Student Matters/MOE Financial Scheme.md
       - Student Matters/ECG Counsellor booking.md
       - Student Matters/Joint Admissions Exercise.md
