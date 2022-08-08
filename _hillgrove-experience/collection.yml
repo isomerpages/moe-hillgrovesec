@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Hillgrove Open House/Instructional Programmes.md
       - Hillgrove Open House/Tour Around Hillgrove.md
       - Hillgrove Open House/.keep
       - Secondary 1 Welcome Microsite/Principal Welcome Address.md
