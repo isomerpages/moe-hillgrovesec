@@ -2,4 +2,5 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Secondary 1 Welcome Microsite/.keep
       - Direct School Admision.md
