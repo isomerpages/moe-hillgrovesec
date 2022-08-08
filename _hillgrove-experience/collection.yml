@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - National Digital Literacy/DMA Matters.md
       - National Digital Literacy/Device Matters.md
       - National Digital Literacy/Frequently Asked Questions on NDLP.md
       - National Digital Literacy/.keep
