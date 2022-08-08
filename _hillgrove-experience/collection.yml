@@ -2,6 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
+      - Hillgrove Open House/Distinctive Programmes.md
       - Hillgrove Open House/Co Curricular Activities Offered.md
       - Hillgrove Open House/Instructional Programmes.md
       - Hillgrove Open House/Tour Around Hillgrove.md
