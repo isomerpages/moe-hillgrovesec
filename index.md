@@ -18,4 +18,14 @@ sections:
         - title: School Events
           description: ""
           url: /school-events/
+  - infobar:
+      title: Facebook
+      subtitle: Hillgrove Secondary School
+      button: Click here
+      url: https://www.facebook.com/officialHGV
+  - infobar:
+      title: Instagram
+      subtitle: Hillgrove Secondary School
+      button: Click here
+      url: https://www.instagram.com/hgv_official/
 ---
