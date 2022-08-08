@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Home Based Learning/For Secondary 1 Students.md
       - Home Based Learning/For Secondary 2 Students.md
       - Home Based Learning/For Secondary 3 Students.md
       - Home Based Learning/.keep
