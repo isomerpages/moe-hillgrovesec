@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - NEST Portal.md
       - Home Based Learning/Overview.md
       - Home Based Learning/For Secondary 1 Students.md
       - Home Based Learning/For Secondary 2 Students.md
