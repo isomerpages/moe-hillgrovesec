@@ -2,6 +2,7 @@ collections:
   student-admin:
     output: true
     order:
+      - Exam Matters/SEAB Interactive Platform for E Oral Exam.md
       - Exam Matters/.keep
       - Character Development/Overview.md
       - Character Development/Sexuality Education.md
