@@ -7,7 +7,7 @@ description: ""
 ### **Secondary 1 E-Registration <br> Appeal for Admission (for non-medical reasons)**
 ------------------------------------------------------------------------
 #### **Based on Serious Medical Reasons**
-*   Please download the application form [_**here**_](https://drive.google.com/file/d/1iQtYbUTFkQJvsFqsnzJqMJp4eVrF6K1a/view?usp=sharing) and email this completed form with relevant supporting documents to the school at [admin_hillgrove_ss@moe.edu.sg](mailto:admin_hillgrove_ss@moe.edu.sg) by 23 Dec 2021, 12pm.
+*   Please download the application form [here](https://drive.google.com/file/d/1iQtYbUTFkQJvsFqsnzJqMJp4eVrF6K1a/view?usp=sharing) and email this completed form with relevant supporting documents to the school at [admin_hillgrove_ss@moe.edu.sg](mailto:admin_hillgrove_ss@moe.edu.sg) by 23 Dec 2021, 12pm.
     
 *   Applicants will be informed of the appeal outcome by 4 Jan 2022 (tentative)
 
