@@ -2,4 +2,5 @@ collections:
   sec-1-eregistration-navigation:
     output: true
     order:
+      - Appeal for Admission.md
       - Frequently Asked Questions.md
