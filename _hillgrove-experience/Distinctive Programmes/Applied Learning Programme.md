@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### **Applied Learning Programme**
-**Flight & Aerospace**
 
 --------------------------------------------------------------
 <img src="/images/ALP.png" 
