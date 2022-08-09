@@ -22,8 +22,6 @@ third_nav_title: Distinctive Programmes
 --------------------------------------------------------------
 #### **STEM ALP Video Highlights**
 
---------------------------------------------------------------
-
 <iframe width="760" height="505" src="https://www.youtube.com/embed/i-bwjJr_ojQ" title="Applied Learning Programme - Flight & Aerospace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --------------------------------------------------------------
