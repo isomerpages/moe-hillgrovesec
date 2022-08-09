@@ -4,7 +4,7 @@ permalink: /hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registrat
 description: ""
 ---
 ![](/images/sec%201%20sale%20of%20uniform%20and%20textbooks.jpg)
-### **Secondary 1 E-Registration <br> sale of Uniform & textbooks**
+### **Secondary 1 E-Registration <br> Sale of Uniform & textbooks**
 ------------------------------------------------------------------------
 _**Dates for Sale of Uniform & Textbooks**_
 
