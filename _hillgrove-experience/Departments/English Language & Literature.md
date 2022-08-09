@@ -7,11 +7,15 @@ third_nav_title: Departments
 ### **English Language & Literature**
 
 ------------------------------------------------------------------
-![](/images/eng%201.png)
-![](/images/eng%202.png)
-![](/images/eng%203.png)
-![](/images/eng%204.png)
-
+<img src="/images/eng%201.png" 
+     style="width:50%" align=left>
+<img src="/images/eng%202.png" 
+     style="width:50%" align=right>
+<br><br><br><br><br>		 
+<img src="/images/eng%203.png" 
+     style="width:50%" align=left>
+<img src="/images/eng%204.png" 
+     style="width:50%" align=right>
 ------------------------------------------------------------------
 <br><br>
 #### **Vision**
