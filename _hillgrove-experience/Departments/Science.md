@@ -39,9 +39,10 @@ When students know the joy of learning,
 ------------------------------------------------------------------
 
 <img src="/images/joy%20in%20learning%201.jpg" 
-     style="width:49%" align=left>
+     style="width:75%">
+		 
 <img src="/images/joy%20in%20learning%202.jpg" 
-     style="width:49%" align=right>	
+     style="width:75%">
 		 
 ------------------------------------------------------------------
 #### **Video Highlights**
