@@ -47,8 +47,6 @@ When students know the joy of learning,
 ------------------------------------------------------------------
 #### **Video Highlights**
 
-------------------------------------------------------------------
-
 <iframe width="562" height="382" src="https://www.youtube.com/embed/lB7IXy19uyY" title="Science Demonstrations at Hillgrove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ------------------------------------------------------------------
