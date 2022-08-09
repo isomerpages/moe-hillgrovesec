@@ -2,7 +2,7 @@ collections:
   hillgrove-experience:
     output: true
     order:
-      - Overview.md
+      - Departments/.keep
       - Departments/Aesthetics and Nutrition & Food Science.md
       - Departments/Applied Subjects and Design & Technology.md
       - Departments/Character Development & Guidance.md
@@ -13,23 +13,23 @@ collections:
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education.md
       - Departments/Science.md
-      - Departments/.keep
+      - Overview.md
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
-      - Distinctive Programmes/.keep
+      - National Digital Literacy/.keep
       - National Digital Literacy/Overview.md
       - National Digital Literacy/DMA Matters.md
       - National Digital Literacy/Device Matters.md
       - National Digital Literacy/Frequently Asked Questions on NDLP.md
-      - National Digital Literacy/.keep
+      - Hillgrove Open House/.keep
       - Hillgrove Open House/Overview.md
       - Hillgrove Open House/Distinctive Programmes.md
       - Hillgrove Open House/Co Curricular Activities Offered.md
       - Hillgrove Open House/Instructional Programmes.md
       - Hillgrove Open House/Tour Around Hillgrove.md
-      - Hillgrove Open House/.keep
+      - Secondary 1 Welcome Microsite/.keep
       - Secondary 1 Welcome Microsite/Principal Welcome Address.md
       - Secondary 1 Welcome Microsite/Sec 1 E Registration.md
       - Secondary 1 Welcome Microsite/Sec 1 Orientation Programme.md
-      - Secondary 1 Welcome Microsite/.keep
       - Direct School Admision.md
