@@ -21,4 +21,4 @@ An example is Hillgrove’s Youth Flying Club (YFC) that was <br> introduced in 
 <img src="/images/cca%20overview%202.jpg" 
      style="width:35%" align=left>
 		 
-To encourage individual and team excellence in CCAs, from 2009 we have established the School Colours Awards for students who achieve outstanding performance in their CCAs.
+To encourage individual and team excellence<br> in CCAs, from 2009 we have established the<br> School Colours Awards for students who achieve outstanding performance in their CCAs.
