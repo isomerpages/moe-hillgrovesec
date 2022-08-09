@@ -36,11 +36,13 @@ Hillgrove Secondary School has a three-tiered approach to organising our Flight 
 
 --------------------------------------------------------------
 
-![](/images/alp%20lesson%201.png)
+<img src="/images/alp%20lesson%201.png" 
+     style="width:75%">
 
-![](/images/alp%20lesson%202.png)
+<img src="/images/alp%20lesson%202.png" 
+     style="width:75%">
 
-https://drive.google.com/file/d/1E-DhEBAt-doqWeaJPz-zGd96SdF2frbC/view
+Click [here](https://drive.google.com/file/d/1E-DhEBAt-doqWeaJPz-zGd96SdF2frbC/view) to view video
 
 --------------------------------------------------------------
 #### **Programme Highlights**
@@ -49,7 +51,8 @@ https://drive.google.com/file/d/1E-DhEBAt-doqWeaJPz-zGd96SdF2frbC/view
 ##### **2021**
 
 --------------------------------------------------------------
-
+<img src="/images/alp%202021.png" 
+     style="width:25%" align=right>
 
 Beginning this year, the school adopted “Future of Transportation” as the Contextual Theme for our STEM ALP.
 
