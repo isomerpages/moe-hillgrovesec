@@ -6,8 +6,7 @@ third_nav_title: Departments
 ---
 ### **Information & Communication Technology**
 
-------------------------------------------------------------------
-
+-------------------------------------------------------
 <img src="/images/ict%201.png" 
      style="width:50%" align=left>
 <img src="/images/ict%202.png" 
