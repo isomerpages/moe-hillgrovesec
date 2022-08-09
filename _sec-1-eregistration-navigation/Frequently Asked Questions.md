@@ -121,4 +121,4 @@ Have special educational needs, with severe difficulties in coping with overall 
 
 **10. Who can we approach for further clarification?**
 
-For further clarifications on MTL related questions, please email Mdm Wong Huey Jeen (HOD/MTL) at wong_huey_jeen@schools.gov.sg
+For further clarifications on MTL related questions, please email Mdm Wong Huey Jeen (HOD/MTL) at [wong_huey_jeen@schools.gov.sg](mailto:wong_huey_jeen@schools.gov.sg)
