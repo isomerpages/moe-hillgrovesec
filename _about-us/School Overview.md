@@ -33,7 +33,7 @@ The large crown of eighteen leaves in varying sizes represents healthy growth so
  Hillgrove believes in the potential of students, builds their character and helps them succeed.
  
  <img src="/images/Hillgrove%20philosphy.png" 
-     style="width:55%">
+     style="width:75%">
 		 
 #### School Values (ICR3)
 <img src="/images/school%20values.png" 
