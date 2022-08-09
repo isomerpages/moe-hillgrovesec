@@ -2,6 +2,7 @@ collections:
   sec-1-eregistration-navigation:
     output: true
     order:
+      - Financial Assistance Scheme 2022.md
       - Subject Based Banding.md
       - Appeal for Admission.md
       - Frequently Asked Questions.md
