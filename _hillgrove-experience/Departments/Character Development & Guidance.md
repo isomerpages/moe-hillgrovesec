@@ -12,7 +12,7 @@ third_nav_title: Departments
      style="width:50%" align=left>
 <img src="/images/cdg%202.png" 
      style="width:50%" align=right>
-<br><br><br><br>		 
+<br><br><br><br><br>		 
 <img src="/images/cdg%203.png" 
      style="width:50%" align=left>
 <img src="/images/cdg%204.png" 
