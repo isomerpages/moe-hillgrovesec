@@ -48,4 +48,7 @@ Below is the table of CCAs offered at Hillgrove Secondary, click on the categori
 #### **Hillgrove 'United' Virtual Ensemble**
 In response to Covid-19 situation, our Hillgrovian, Jerron Ng wrote a song to rally his school together to stay united and be resilient. The video represents a whole-school effort and also features the combined efforts of our 7 Arts CCAs.
 
+**unable to embed video due to cms error**
+https://youtu.be/1lN1_IxsHqs
+
 -------------------------------------------------------------------
