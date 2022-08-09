@@ -19,7 +19,7 @@ description: ""
 ------------------------------------------------------------------------
 #### **New application with Hillgrove Secondary School:**
 
-*   You can download the application form [_**here**_](https://drive.google.com/file/d/1zkz2jOhFJOoZiJZUikZYJRDJgZpcuQS6/view?usp=sharing) and submit the completed form to our school email address via hillgrove\_ss@moe.edu.sg. Please indicate your email subject header as ‘MOE FAS Application Form\_\_.
+*   You can download the application form [here](https://drive.google.com/file/d/1zkz2jOhFJOoZiJZUikZYJRDJgZpcuQS6/view?usp=sharing) and submit the completed form to our school email address via [hillgrove_ss@moe.edu.sg](mailto:hillgrove_ss@moe.edu.sg) Please indicate your email subject header as ‘MOE FAS Application Form.
 	
 ------------------------------------------------------------------------
 #### **Financial Assistance Scheme (FAS) Matters**	
@@ -27,4 +27,4 @@ description: ""
     
 *   In order for your application to be processed smoothly, we urge parents/guardians to read the instructions on the application form carefully and to provide the required documents. The school will notify you of the outcome one week from date of submission.	
 	
-------------------------------------------------------------------------	
+------------------------------------------------------------------------
