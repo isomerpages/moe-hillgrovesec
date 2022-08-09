@@ -11,7 +11,7 @@ third_nav_title: Departments
      style="width:50%" align=left>
 <img src="/images/math%202.png" 
      style="width:50%" align=right>		 
-<br><br><br><br><br>		 
+<br><br><br><br>
 <img src="/images/math%203.png" 
      style="width:50%" align=left>
 <img src="/images/math%204.png" 
