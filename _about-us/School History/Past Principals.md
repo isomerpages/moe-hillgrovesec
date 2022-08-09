@@ -18,3 +18,6 @@ Founded in 2001 with 277 students, Hillgrove first operated on shared premises w
      style="width:25%" align = right>
 		 
 Mdm Thoo Mei Lan was the founding Principal and introduced its first Outreach Programme to provide Hillgrovians with the opportunity to engage in challenging outdoor activities to build their confidence, team spirit and leadership qualities. As a new school in an established housing estate, the school harnessed the location and history of Bukit Batok to strengthen her students’ pride and sense of identity and empower them to make positive contributions to the community at large.
+
+---------------------------------------------------------------------
+
