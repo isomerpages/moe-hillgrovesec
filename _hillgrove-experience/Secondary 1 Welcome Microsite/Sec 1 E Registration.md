@@ -24,3 +24,13 @@ _**Important things to note:**_
 
 <img src="/images/sec%201%20date%20of%20sale.jpg" 
      style="width:65%">
+		 
+-------------------------------------------------------------------------------
+#### **Sec 1 E-Registration Navigation**
+
+* [Sale of Uniform & Textbooks]
+* [3rd Language Application]
+* [Financial Assistance Scheme 2022]
+* [Subject Based Banding]
+* [Appeal for Admission]
+* [Frequently Asked Questions]
