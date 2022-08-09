@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/
 description: ""
 ---
-### Principal's Message
+### **Principal's Message**
 -----------------------------------------------------------------
 
 <img src="/images/principal.jpg" 
