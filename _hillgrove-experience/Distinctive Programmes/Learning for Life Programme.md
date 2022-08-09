@@ -58,19 +58,71 @@ _**e-Hillgrove’s Got Talent!**_<br>
 --------------------------------------------------------------
 ##### **2019**
 
---------------------------------------------------------------
+_**SYF Arts Presentations**_
+
+*   Choir - Certificate of Accomplishment
+    
+*   Concert Band - Certificate of Accomplishment
+    
+*   Drama Club - Certificate of Commendation
+    
+*   Malay Dance - Certificate of Distinction
+    
+*   Modern Dance - Certificate of Accomplishment
+    
+
+_**Young Illustrator Award Season 7**_
+
+*   Art Club, Ho Jia En, Class 3-1
+    
+
+_**Our Future Drawing Contest (Top 10 Winner)**_
+
+*   Art Club, Ho Jia En, Class 3-1
+    
+
+_**Bicentennial Video Competition (Special Award)**_
+
+*   Media Club, Kim Dohoon and Tristan Gatus ($100 book voucher)--------------------------------------------------------------
 
 
 --------------------------------------------------------------
 ##### **2018**
 
 --------------------------------------------------------------
+_**Orientale Concentus International Choral Festival**_
 
+*   Choir - Bronze Grade I Award
+    
+
+_**Singapore International Band Festival**_
+
+*   Band - Silver Award
+    
+
+_**SYF Art Exhibition 2018 (Theme: “Artist and Citizenship”)**_
+
+*   Certificate of Recognition
 
 --------------------------------------------------------------
 ##### **2017**
 
 --------------------------------------------------------------
+_**SYF Arts Presentations**_
 
+*   Choir - Certificate of Accomplishment
+    
+*   Concert Band - Certificate of Accomplishment
+    
+*   Drama Club - Certificate of Accomplishment
+    
+*   Malay Dance - Certificate of Accomplishment
+    
+*   Modern Dance - Certificate of Accomplishment
+    
+
+_**11th Singapore National Junior Watercolour Competition**_
+
+*   Highly Commended Prize - Tiu Alyana Antoneth Tamayo, Class 3-8
 
 --------------------------------------------------------------
