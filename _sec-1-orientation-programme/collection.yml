@@ -1,5 +1,0 @@
-collections:
-  sec-1-orientation-programme:
-    output: true
-    order:
-      - Overview.md
