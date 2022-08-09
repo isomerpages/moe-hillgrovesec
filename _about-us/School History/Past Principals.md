@@ -35,7 +35,7 @@ Mrs Yeow Lee Lin was instrumental in steering the school towards providing a hol
 <img src="/images/past%20principal%202009.png" 
      style="width:15%" align = right>
 
-Mr Kenneth Lee built on Hillgrove’s traditional strength of providing a disciplined, family-like environment conducive to academic excellence, while growing new competencies to provide all Hillgrovians with a range of interdisciplinary competencies and social skills. In 2009, Mr Lee led the staff to come together to articulate their shared philosophy for Hillgrovians and this was translated into P + C = S (Potential + Character = Success).
+Mr Kenneth Lee built on Hillgrove’s traditional strength of providing a <br>disciplined, family-like environment conducive to academic excellence, <br>while growing new competencies to provide all Hillgrovians with a range<br> of interdisciplinary competencies and social skills. In 2009, Mr Lee led<br> the staff to come together to articulate their shared philosophy for<br> Hillgrovians and this was translated into P + C = S (Potential + Character = Success).
 
 ---------------------------------------------------------------------
 
