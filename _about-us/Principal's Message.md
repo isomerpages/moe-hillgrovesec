@@ -6,6 +6,9 @@ description: ""
 ### Principal's Message
 -----------------------------------------------------------------
 
+<img src="/images/principal.jpg" 
+     style="width:25%" align = right>
+		 
 Our young have so much potential. We are glad that we have the privilege to be part of their lives as they spend their secondary school years with us. We would want to nurture them holistically – taking care of their physical, emotional, social and intellectual development and also ensuring that they are taught good and enduring values.  With the fast pace of change (and change being many), it will also be needful for our young to be guided and equipped with the right attitude, skills and dispositions that will help them to be future-ready.
 
 We envision all our students to be **reflective learners** and **caring changemakers**. We believe that our students have a lot to offer if they are well guided and they take responsibility for their learning, their actions and their growth.
