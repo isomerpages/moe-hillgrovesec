@@ -12,6 +12,8 @@ third_nav_title: Departments
 <img src="/images/nfs%20banner.png" 
      style="width:50%" align=right>
 		 
+------------------------------------------------------------------------
+<br> <br>		 
 #### **Vision**
 **_Cultivating Creative Learners and Nurturing HeARTS through the Arts_** 
 
