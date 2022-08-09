@@ -44,7 +44,16 @@ Our Learning for Life Programme focuses on the Arts, with the mission of nurturi
 _**Hillgrove ‘United’ Virtual Ensemble**_<br>
 In response to Covid-19 situation, our Hillgrovian, Jerron Ng wrote a song to rally his school together to stay united and be resilient. The video represents a whole-school effort and also features the combined efforts of our 7 Arts CCAs.
 
-
+ **unable to embed video due to cms error**
+	https://youtu.be/1lN1_IxsHqs
+	
+_**e-Hillgrove’s Got Talent!**_<br>
+ **unable to embed video due to cms error**
+ https://youtu.be/8jKa9BrTc80
+ 
+ _**In-House Art Exhibition by Sec 3NA Art Students - “Experience and Expressions”**_<br>
+ 
+ ![](/images/llp%20art%20exhibition.jpg)
 
 --------------------------------------------------------------
 ##### **2019**
