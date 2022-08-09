@@ -13,7 +13,7 @@ third_nav_title: Departments
      style="width:50%" align=right>
 		 
 #### **Vision**
-**_**Cultivating Creative Learners and Nurturing HeARTS through the Arts**_** 
+**_Cultivating Creative Learners and Nurturing HeARTS through the Arts_** 
 
 ------------------------------------------------------------------
 ##### _**Philosophy**_ <br>
