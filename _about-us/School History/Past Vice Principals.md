@@ -7,4 +7,4 @@ third_nav_title: School History
 ### **Past Vice-Principals**
 
 #### Past Vice-Principals of the school
-![](/images/past%20vice%20principal.jpg)
+![](/images/past%20vice%20principal%202.jpg)
