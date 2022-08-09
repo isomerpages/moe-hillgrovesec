@@ -27,6 +27,7 @@ _**Important things to note:**_
 		 
 -------------------------------------------------------------------------------
 #### **Sec 1 E-Registration Navigation**
+click on any of the hyperlinks below to be directed to the desired matter
 
 * [Sale of Uniform & Textbooks](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/sale-of-uniform-textbooks/)
 * [3rd Language Application](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/3rd-language-application/)
