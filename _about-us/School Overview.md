@@ -44,6 +44,8 @@ The large crown of eighteen leaves in varying sizes represents healthy growth so
 <br>- Respect
 <br>- Responsibility		 
 
+<br><br>
+
 **Integrity**
 Integrity is to be honest, upright and have the moral courage to do what is right.
 
