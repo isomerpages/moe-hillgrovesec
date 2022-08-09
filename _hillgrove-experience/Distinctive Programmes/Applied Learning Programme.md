@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 ### **Applied Learning Programme**
+**Flight & Aerospace**
 
 --------------------------------------------------------------
 <img src="/images/ALP.png" 
@@ -96,7 +97,3 @@ They got the answer when their experiment was chosen to be conducted on board th
 This was the first time that a Singapore proposal was selected!
 
 Click on this [link](https://www.youtube.com/watch?v=-tPRb6TIDig) to watch the video of the actual experiment conducted.
-
-
-
-
