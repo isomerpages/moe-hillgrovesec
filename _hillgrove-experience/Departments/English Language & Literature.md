@@ -37,3 +37,33 @@ Literature is a subject that nurtures both the head and the heart. Our Literatur
 *   Secondary 3 – Inter-class Debate Competition
 
 ------------------------------------------------------------------
+##### **Signature Programmes**
+
+------------------------------------------------------------------
+Broadcasting
+
+*   Students are rostered to read articles at the school’s _Heartbeats_ broadcasting station
+    
+Media Resource Library (MRL)
+
+*   MRL Reading Week
+
+------------------------------------------------------------------
+##### **Competitions**
+
+------------------------------------------------------------------
+National Schools Literature Festival
+
+2019
+
+*   Sec 3 Unseen Poetry Debate (Winner)
+    
+
+2018
+
+*   Lower Secondary Book Trailer (Sec 1 Team – 3rd)  
+    Sec 4 Set Text Debate (winner)
+    
+*   Sec 4 Set Text Debate (winner)
+
+------------------------------------------------------------------
