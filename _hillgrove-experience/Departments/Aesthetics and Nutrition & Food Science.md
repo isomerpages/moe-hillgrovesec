@@ -12,9 +12,10 @@ third_nav_title: Departments
 <img src="/images/nfs%20banner.png" 
      style="width:50%" align=right>
 		 
-#### Vision
+#### **Vision**
 **_**Cultivating Creative Learners and Nurturing HeARTS through the Arts**_** 
 
+------------------------------------------------------------------
 ##### _**Philosophy**_ <br>
 The Hillgrove Aesthetics Department celebrates the uniqueness of every individual, and seeks to bring out the artist in every child. We strongly believe that the arts are integral to the holistic development of every student, and to allow every student to discover joy in and through the arts.
 
@@ -44,3 +45,40 @@ The curriculum culminates in the yearly highlight event of the department – th
 At the Upper Secondary level, students with a strong inclination towards music can opt to do O Level Music as an additional subject at an external O Level Music centre.
 
 ![](/images/lower%20sec%20music%20curriculum.jpg)
+
+------------------------------------------------------------------
+#### **Mission**
+
+------------------------------------------------------------------
+##### _**Food & Consumer Science**_
+To cultivate the joy of learning authentic life skills in nutrition, meal planning and health through food preparation and recipe modification.
+
+To develop students’ understanding of the principles of food science to prepare them for tertiary studies in health, food and beverage related industries.
+
+Selected Sec 1 students participate in a Salad Making Competition where students learn how to plan and prepare a wholesome salad, as well as do a verbal presentation of their creation to the judges.
+
+------------------------------------------------------------------
+#### **Achievements & Highlights**
+
+------------------------------------------------------------------
+##### **Programmes and Events**
+*   Hillgrove Music Festival
+    
+*   Hillgrove’s Got Talent!
+    
+*   SPARKLE! Biennial Performing Arts CCA Showcase
+    
+*   Annual Arts Camp
+    
+*   LLP Arts Modules – Drama, Photography, Dance
+    
+*   Performing Arts Assembly Concerts Arts Learning Journeys – STEAM Cohort Programme
+
+------------------------------------------------------------------
+##### **Nutrition & Food Science - Participation in External Competitions/Events**
+
+*   Baking Course at BITC
+    
+*   ITE ignITE
+
+----------------------------------------------------------------------------
