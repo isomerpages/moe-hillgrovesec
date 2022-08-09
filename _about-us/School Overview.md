@@ -73,7 +73,7 @@ Every Hillgrovian will continually:<br>
 C.A.R.E is the heartbeat of the school. It defines how we would like to relate to and work alongside one another. It speaks of the school’s desire to be others-centred. It is about helping one another to be at our best. It is also about the school being united to soar as one.
 
  <img src="/images/Culture.jpg" 
-     style="width:75%">
+     style="width:85%">
 		 
 #### School Motto
 ##### **United We Soar**
