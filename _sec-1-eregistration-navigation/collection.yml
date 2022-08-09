@@ -2,6 +2,7 @@ collections:
   sec-1-eregistration-navigation:
     output: true
     order:
+      - Sec 1 E Registration.md
       - Sale of Uniform and Textbooks.md
       - 3rd Language Application.md
       - Financial Assistance Scheme 2022.md
