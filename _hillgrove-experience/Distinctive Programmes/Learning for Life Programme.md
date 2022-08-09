@@ -83,7 +83,7 @@ _**Our Future Drawing Contest (Top 10 Winner)**_
 
 _**Bicentennial Video Competition (Special Award)**_
 
-*   Media Club, Kim Dohoon and Tristan Gatus ($100 book voucher)--------------------------------------------------------------
+*   Media Club, Kim Dohoon and Tristan Gatus ($100 book voucher)
 
 
 --------------------------------------------------------------
