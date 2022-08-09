@@ -18,3 +18,7 @@ Do you want to know how we engage, inspire and prepare students for success? Wat
 -------------------------------------------------------------------
 ##### **Genius Hour @ Hillgrove**
 Do you want to know how we nurture students as self-directed and reflective learners? Watch the video to learn more about how our students are empowered to pursue their own unique interests in a supported way.
+
+<iframe width="562" height="316" src="https://www.youtube.com/embed/F5IRat8201Q" title="HGV Genius Hour 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-------------------------------------------------------------------
