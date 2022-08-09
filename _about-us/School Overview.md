@@ -34,3 +34,43 @@ The large crown of eighteen leaves in varying sizes represents healthy growth so
  
  <img src="/images/Hillgrove%20philosphy.png" 
      style="width:55%">
+		 
+#### School Values (ICR3)
+<img src="/images/school%20values.png" 
+     style="width:35%" align = left>
+<br>- Integrity
+<br>- Care
+<br>- Resilience
+<br>- Respect
+<br>- Responsibility		 
+
+**Integrity**
+Integrity is to be honest, upright and have the moral courage to do what is right.
+
+**Care**
+Care is the ability to show kindness and compassion.
+
+**Respect**
+Respect is the ability to show regard for the worth of someone or something. It includes respect for self, respect for the rights and dignity of all persons, respect for school rules and respect for environment.
+
+**Responsibility**
+Responsibility is the ability to do something that you must do as part of your job or duty because it is morally and socially right.
+
+**Resilience**
+Resilience is the ability to persevere in the face of challenges without giving up.
+
+#### School Mission
+Nurturing Hillgrovians who **Learn**, **Care** and **Make a Difference**.
+
+Every Hillgrovian will continually:<br>
+* Learn with passion and give one’s best
+* Care for the needs of self and others
+* Make a Difference through the use of knowledge, talents and leadership
+
+#### School Culture
+C.A.R.E is the heartbeat of the school. It defines how we would like to relate to and work alongside one another. It speaks of the school’s desire to be others-centred. It is about helping one another to be at our best. It is also about the school being united to soar as one.
+
+ <img src="/images/Culture.jpg" 
+     style="width:75%">
+		 
+		 
