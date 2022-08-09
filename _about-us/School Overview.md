@@ -29,8 +29,8 @@ The large crown of eighteen leaves in varying sizes represents healthy growth so
 
  Set together, the design elements express the school’s desire to be a safe environment that encourages young people to grow in values and skills needed to face life’s challenges.
  
- #### The Hillgrove Philosophy
- Hillgrove believes in the potential of students, builds their character and helps them succeed.
+#### The Hillgrove Philosophy
+Hillgrove believes in the potential of students, builds their character and helps them succeed.
  
  <img src="/images/Hillgrove%20philosphy.png" 
      style="width:75%">
