@@ -3,11 +3,15 @@ title: Co Curricular Activities
 permalink: /hillgrove-experience/Co-Curricular-Activties/
 description: ""
 ---
-
-
 ### **Co-Curricular Activities**
 
 -------------------------------------------------------------------
+Click on the link below to see the CCAs offered in each category:
+* [Aesthetics Groups](https://docs.google.com/presentation/d/1mh3TvzPQ9Du-ihDLF6et6tjrRwiA6j3jpltnx8qZybc/edit#slide=id.p1)
+* [Clubs & Societies](https://docs.google.com/presentation/d/1Leztx9XQXmEZ2Tggq-p9gBf6ju16KBrVy8tBdkWAS2M/edit#slide=id.p1)
+* [Sports & Games](https://docs.google.com/presentation/d/15MQwweR1UVlkW6qMe983frkZ35kv4CfqxT6BXez2WTQ/edit#slide=id.p1)
+* [Uniformed Groups](https://docs.google.com/presentation/d/1pXewre_cfCR_VUI3PS2Hvb04BdXlMHhgCxRSLkixZac/edit#slide=id.p1)
+
 Each CCA draws up a comprehensive work plan of team building, training, participation in competitions that allows it to strategise and work on achieving key goals and student learning outcomes. As a result of our approach toward growing our CCAs, they grow from strength to strength.
 
 <img src="/images/cca%20overview%201.jpg" 
