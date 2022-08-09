@@ -28,9 +28,9 @@ _**Important things to note:**_
 -------------------------------------------------------------------------------
 #### **Sec 1 E-Registration Navigation**
 
-* [Sale of Uniform & Textbooks]
-* [3rd Language Application]
-* [Financial Assistance Scheme 2022]
-* [Subject Based Banding]
-* [Appeal for Admission]
-* [Frequently Asked Questions]
+* [Sale of Uniform & Textbooks](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/sale-of-uniform-textbooks/)
+* [3rd Language Application](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/3rd-language-application/)
+* [Financial Assistance Scheme 2022](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/FAS-2022/)
+* [Subject Based Banding](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/subject-based/)
+* [Appeal for Admission](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/appeal-for-admission/)
+* [Frequently Asked Questions](/hillgrove-experience/Secondary-1-Welcome-Microsite/sec-1-e-registraton/faq/)
