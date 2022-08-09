@@ -3,7 +3,7 @@ title: Organisation Chart
 permalink: /about-us/organisation-chart/
 description: ""
 ---
-### Organisation Chart
+### **Organisation Chart**
 ------------------------------------------------------------
 
 Click on the links below on the personnel that you'd like to view:  
