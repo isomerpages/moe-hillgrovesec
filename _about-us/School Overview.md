@@ -8,7 +8,7 @@ description: ""
 
 #### School Vision
 
-**Reflective Learners, Caring Changemakers**
+##### **Reflective Learners, Caring Changemakers**
 
 Hillgrove’s vision of “Reflective Learners, Caring Changemakers” describes a community of others-centred individuals who will learn, unlearn and relearn. Hillgrovians will be nurtured to our fullest potential so as to enable us to make a difference in our community and the world at large.
 
@@ -73,4 +73,6 @@ C.A.R.E is the heartbeat of the school. It defines how we would like to relate t
  <img src="/images/Culture.jpg" 
      style="width:75%">
 		 
-		 
+#### School Motto
+##### **United We Soar**
+We come together in unity to learn, care and help one another to make a difference. This is in line with our school vision and mission. As a Hillgrove family, we are deeply rooted as one. Anchored on our school values and a passion to strive for excellence, we desire to strive for greater heights.
