@@ -7,3 +7,7 @@ third_nav_title: Distinctive Programmes
 ### **Learning for Life Programme**
 
 --------------------------------------------------------------
+<img src="/images/LLP.png" 
+     style="width:65%">
+		 
+--------------------------------------------------------------
