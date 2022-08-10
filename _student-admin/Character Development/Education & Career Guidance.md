@@ -18,15 +18,11 @@ third_nav_title: Character Development
 #### **Stream Specific Progression Programmes**
 For detailed information, click on the links to be redirected.
 
- [_Annex A - Express & 5 Normal Academic_]
+ [_Annex A - Express & 5 Normal Academic_](https://staging.df867at3k0x17.amplifyapp.com/images/ecg%20annex%20A.jpg)
 
- [_Annex B - Normal Academic_]
+ [_Annex B - Normal Academic_](https://staging.df867at3k0x17.amplifyapp.com/images/ecg%20annex%20B.jpg)
 
- [_Annex C - Normal Technical_]
- 
- ![](/images/ecg%20annex%20A.jpg)
- ![](/images/ecg%20annex%20B.jpg)
- ![](/images/ecg%20annex%20C.jpg)
+ [_Annex C - Normal Technical_](https://staging.df867at3k0x17.amplifyapp.com/images/ecg%20annex%20C.jpg)
  
 #### **2017 Educational Pathway Awareness Package**
 All Sec 1 to Sec 5 students have gone through this package as part of their curriculum at the beginning of the year. Click on the links to find out more.
