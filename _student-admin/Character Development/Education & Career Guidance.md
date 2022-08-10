@@ -34,6 +34,8 @@ All Sec 1 to Sec 5 students have gone through this package as part of their curr
 |  Lesson Slides on Education Pathways |   |   | [https://drive.google.com/file/d/0B3gi5KZ8PkgAaUtZWnZRS3JUZ1U/view?usp=sharing](https://drive.google.com/file/d/0B3gi5KZ8PkgAaUtZWnZRS3JUZ1U/view?usp=sharing)
 |
 
+**all links in table have issue**
+
 #### **Frequently Asked Questions**
 
 | **JC-related questions** |  |
