@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Hillgrove Careers Day 2022.md
       - Hillgrove School Holiday iPad Announcement.md
       - Green @ Hillgrove.md
