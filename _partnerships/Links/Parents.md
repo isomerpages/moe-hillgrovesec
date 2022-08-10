@@ -22,6 +22,6 @@ third_nav_title: Links
 
 *   [Chinese Development Assistance Council (CDAC)](https://www.cdac.org.sg/)
 *   [Central Sikh Gurdwara Board (CSGB)](https://www.sikhs.org.sg/)
-*   [The Eurasian Association, Singapore](https://www.eurasians.org/)
+*   [The Eurasian Association, Singapore](https://www.eurasians.org/) **privacy error**
 *   [The Singapore Indian Development Association (SINDA)](https://www.sinda.org.sg/)
 *   [Yayasan MENDAKI](https://www.mendaki.org.sg/)
