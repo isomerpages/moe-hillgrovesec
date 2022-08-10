@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education in Hillgrove.md
       - Cyberwellness In Hillgrove.md
