@@ -8,7 +8,6 @@ third_nav_title: Links
 ------------------------------------------------------------------
 #### **Academic Sites**
 
-*   [Sexuality Education In Hillgrove](https://hillgrovesec.moe.edu.sg/partnerships/links/parents/sexuality-education-in-hillgrove) 
-*   [Cyberwellness in Hillgrove](https://www.hillgrovesec.moe.edu.sg/partnerships/links/parents/cyberwellness-in-hillgrove)
+*   [Sexuality Education In Hillgrove]() 
+*   [Cyberwellness in Hillgrove]()
 *   [GCE 'N' / 'O' Level Examinations](https://www.seab.gov.sg/)
-
