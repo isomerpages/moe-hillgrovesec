@@ -2,7 +2,7 @@ collections:
   student-admin:
     output: true
     order:
-      - Home Based Learning.md
+      - Student Matters/.keep
       - Student Matters/School Life Coaching.md
       - Student Matters/School Fees.md
       - Student Matters/School Uniform.md
@@ -13,25 +13,25 @@ collections:
       - Student Matters/MOE Financial Assistance Scheme.md
       - Student Matters/ECG Counsellor Booking.md
       - Student Matters/Joint Admissions Exercise.md
-      - Student Matters/.keep
+      - Exam Matters/.keep
       - Exam Matters/Assessment Plan.md
       - Exam Matters/Exam Timetables.md
       - Exam Matters/Rules & Regulations for School Candidates.md
       - Exam Matters/National Exam Matters.md
       - Exam Matters/Important Links.md
       - Exam Matters/SEAB Interactive Platform for E Oral Exam.md
-      - Exam Matters/.keep
+      - Character Development/.keep
       - Character Development/Overview.md
       - Character Development/Sexuality Education.md
       - Character Development/Education & Career Guidance.md
       - Character Development/ECG Counsellor Booking.md
-      - Character Development/.keep
       - Student Leadership.md
       - Sustainable Environment Education.md
       - NEST Portal.md
+      - Home Based Learning.md
+      - Home Based Learning/.keep
       - Home Based Learning/Overview.md
       - Home Based Learning/For Secondary 1 Students.md
       - Home Based Learning/For Secondary 2 Students.md
       - Home Based Learning/For Secondary 3 Students.md
-      - Home Based Learning/.keep
       - Reset Student Account.md
