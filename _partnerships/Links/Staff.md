@@ -12,11 +12,11 @@ third_nav_title: Links
 *   [Parents Gateway Portal](https://pg.moe.edu.sg/)
 *   [One Portal All Learners (OPAL 2.0)](https://idm.opal2.moe.edu.sg/)
 *   [Ministry of Education Internet](http://www.moe.gov.sg/)
-*   [Ministry of Education Intranet](https://intranet.moe.gov.sg/)
-*   [School Cockpit (for Teachers only)](https://schoolcockpit.moe.edu.sg/login)
+*   [Ministry of Education Intranet](https://intranet.moe.gov.sg/)**broken link**
+*   [School Cockpit (for Teachers only)](https://schoolcockpit.moe.edu.sg/login)**broken link**
 *   [HRP / WorkPal](https://www.hrp.gov.sg/)
 *   [Ministry of Education Sports and Recreation Club (MESRC)](http://www.mesrc.net/)
 *   [Civil Service College (CSC) Singapore](http://www.cscollege.gov.sg/)
-*   [Public Service for the 21st Century (PS21)](http://www.ps21.gov.sg/)
-*   [Singapore Teachers' Union (STU)](http://www.stu.org.sg/)
+*   [Public Service for the 21st Century (PS21)](http://www.ps21.gov.sg/)**broken link**
+*   [Singapore Teachers' Union (STU)](http://www.stu.org.sg/) **broken link**
 *   [Singapore Examinations and Assessment Board (SEAB)](http://www.seab.gov.sg/)
