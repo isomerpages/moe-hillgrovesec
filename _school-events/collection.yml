@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2022 Secondary 1 Induction.md
       - 2021 GCE O Level Examinations.md
       - Chinese New Year Celebrations.md
       - Total Defence Day 2022.md
