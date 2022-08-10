@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Hillgrove School Holiday iPad Announcement.md
       - Green @ Hillgrove.md
