@@ -18,4 +18,6 @@ Hillgrove Secondary School believes in the holistic education of her students. P
 *   SEC (Yellow Flame) Award 2018
 
 #### **Environmental Efforts**
-Click on the [link](https://drive.google.com/file/d/1d1zv06RMsAAiN24oqixidAvZgr-MfOxg/view?usp=sharing) to view our environmental efforts & photos.	
+Click on the [link](https://drive.google.com/file/d/1d1zv06RMsAAiN24oqixidAvZgr-MfOxg/view?usp=sharing) to view our environmental efforts & photos.
+
+-----------------------------------------------------------------------
