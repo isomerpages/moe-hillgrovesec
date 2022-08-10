@@ -5,13 +5,7 @@ description: ""
 ---
 ![](/images/ereigstration%20faq.jpg)
 ### **Secondary 1 E-Registration <br> Frequently Asked Questions**
-------------------------------------------------------------------------
-_**Click on the desired link below to access the frequently asked questions pertaining to that content**_
 
-* [E-Registration](https://sites.google.com/moe.edu.sg/hgv-sec1/e-registration/faq#h.rqp1f9xmc3rm)
-* [Sale of Uniform & Textbooks](https://sites.google.com/moe.edu.sg/hgv-sec1/e-registration/faq#h.i7k00ji5xodg)
-* [Appeal for Admission (Non-Medical Reason)](https://sites.google.com/moe.edu.sg/hgv-sec1/e-registration/faq#h.23puxz4f6c0p)
-* [Mother Tongue Language, 3rd Language Matters](https://sites.google.com/moe.edu.sg/hgv-sec1/e-registration/faq#h.h6mo3kpfmya0)
 
 ------------------------------------------------------------------------
 #### **E-Registration**
