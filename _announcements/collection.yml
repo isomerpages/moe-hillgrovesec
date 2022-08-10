@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Parking in School.md
       - Singapore Polytechnic Scholarship (Engineering).md
       - Pay MOE and School Bills via SAM.md
       - Release of 2021 GCE N(A) & N(T) Level Examination Results.md
