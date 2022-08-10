@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Pay MOE and School Bills via SAM.md
       - Release of 2021 GCE N(A) & N(T) Level Examination Results.md
       - Collection of SGC for 2021 Graduates.md
       - Hillgrove Careers Day 2022.md
