@@ -7,7 +7,6 @@ third_nav_title: Secondary 1 Welcome Microsite
 ![](/images/sec%201%20orientation%20programme.jpg)
 ### **Secondary 1 E-Registration <br> Orientation Programme**
 ------------------------------------------------------------------------
-### 
 
 The objectives of the Secondary 1 Orientation Programme are to:
 
