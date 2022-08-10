@@ -1,0 +1,4 @@
+collections:
+  assessment-plan:
+    output: true
+    order: []
