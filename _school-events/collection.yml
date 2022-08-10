@@ -1,4 +1,5 @@
 collections:
   school-events:
     output: true
-    order: []
+    order:
+      - Racial Harmony Day Celebrations 2022.md
