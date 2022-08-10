@@ -2,7 +2,6 @@ collections:
   student-admin:
     output: true
     order:
-      - Student Matters/Overview.md
       - Student Matters/School Life Coaching.md
       - Student Matters/School Fees.md
       - Student Matters/School Uniform.md
