@@ -39,10 +39,10 @@ Having trouble logging in to certain accounts, click on the button below to requ
 
 Reset passwords during the Home Based Learning will happen on Mondays - Fridays between 8:00am - 4:00pm. No password reset requested will be entertained during weekends and public holidays.
 
-If you would like to know more about the accounts that Hillgrove students should have, please click [_**here**_](https://sites.google.com/moe.edu.sg/hgv-hbl/hgv-accounts).
+If you would like to know more about the accounts that Hillgrove students should have, please click [_here_](https://sites.google.com/moe.edu.sg/hgv-hbl/hgv-accounts).
 
 [Click here for Account Password Reset](https://form.gov.sg/#!/5bbd630027538d000f37f948)
 
-If you have recently requested to reset your password, click [_**here**_](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fhillgrove-password-status&sa=D&sntz=1&usg=AOvVaw3oUffnbgEzkC4XpgUdDiYA) to check whether the ICT Support Team has completed the task.
+If you have recently requested to reset your password, click [_here_](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fhillgrove-password-status&sa=D&sntz=1&usg=AOvVaw3oUffnbgEzkC4XpgUdDiYA) to check whether the ICT Support Team has completed the task.
 
 ----------------------------------------------------------------------
