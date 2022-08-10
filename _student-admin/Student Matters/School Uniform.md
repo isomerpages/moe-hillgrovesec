@@ -39,3 +39,5 @@ Note:
 _Mondays – Saturdays : 12.00 noon to 7.00 pm_
 
 _Closed on Sunday and Public Holidays_
+
+_**\*updated as of 8 July 2022**_
