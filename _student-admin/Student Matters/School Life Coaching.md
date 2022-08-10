@@ -38,3 +38,16 @@ Some issues that young people find themselves supported via coaching include –
 *   Self Identity
 *   Time Management
 *   Trauma
+
+-------------------------------------------------------------------
+#### **Confidentiality**
+
+In the work with students, the coach subscribes to a confidentiality policy so as to create a safe environment for students to talk about their issues openly. However, effective coaching may, at times, require that the counsellor share confidential information with other stakeholders. Exceptions to the confidentiality policy apply in the situations below:
+
+(i) Students give their consent to reveal certain information to other stakeholders;
+
+(ii) Students intend to or have harmed themselves and/or others;
+
+(iii) Students are referred to external agencies for more specialised professional attention
+
+(iv) Information is required by the Courts of Law
