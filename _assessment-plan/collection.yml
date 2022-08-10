@@ -1,4 +1,5 @@
 collections:
   assessment-plan:
     output: true
-    order: []
+    order:
+      - Assessment Plan.md
