@@ -11,5 +11,5 @@ description: ""
 3.  Click the links below for resources developed by MOE:
 
 * April Issue 2018 - [Presentation Slides,](/files/PS2018.pdf)[Tip Sheet for Parents](/files/TS2018.pdf)
-* October 2018 issue - [Presentation Slides,]()[Tip Sheet for Parents]()
-* February 2019 issue - [Presentation Slides,]()[Tip Sheet for Parents]()
+* October 2018 issue - [Presentation Slides,](/files/PSoct.pdf)[Tip Sheet for Parents](/files/TSoct.pdf)
+* February 2019 issue - [Presentation Slides,](/files/PSfeb.pdf)[Tip Sheet for Parents](/files/TSfeb.pdf)
