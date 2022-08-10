@@ -2,4 +2,5 @@ collections:
   school-events:
     output: true
     order:
+      - Cohort Post Exam Activities.md
       - Racial Harmony Day Celebrations 2022.md
