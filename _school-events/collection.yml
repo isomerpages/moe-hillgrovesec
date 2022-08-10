@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - AEDGE 2022.md
       - Sec 1 Personal Device Learning Programme.md
       - 21st Annual Speech Day.md
       - Cohort Post Exam Activities.md
