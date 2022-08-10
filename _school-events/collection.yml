@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Sec 1 Personal Device Learning Programme.md
       - 21st Annual Speech Day.md
       - Cohort Post Exam Activities.md
       - Racial Harmony Day Celebrations 2022.md
