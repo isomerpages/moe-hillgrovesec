@@ -2,9 +2,9 @@ collections:
   school-events:
     output: true
     order:
-      - Overcoming The Odds.md
-      - 2021 GCE N Level Examinations.md
       - Singapore Youth Festival 2021.md
+      - 2021 GCE N Level Examinations.md
+      - Overcoming The Odds.md
       - 2022 Secondary 1 Induction.md
       - 2021 GCE O Level Examinations.md
       - Chinese New Year Celebrations.md
