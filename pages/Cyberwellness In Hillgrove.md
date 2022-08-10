@@ -10,3 +10,6 @@ description: ""
 2.  [Helping Your Children Be Discerning About Online Information](https://drive.google.com/file/d/1RxmeOwFTwrSvSz0IZSznkhypla_h3pp2/view?usp=sharing)
 3.  Click the links below for resources developed by MOE:
 
+* April Issue 2018 -
+* October 2018 issue -
+* February 2019 issue -
