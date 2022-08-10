@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Exam Matters
 ---
 ### **Exam Timetables**
----------------------------------------------------------------------------
+
 Click on the link below to view/download the timetable for your desired exam.
 
----------------------------------------------------------------------------
 #### **Preliminary Exam 2022**
 
 ---------------------------------------------------------------------------
