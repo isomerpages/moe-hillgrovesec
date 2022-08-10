@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Sec 1 Outdoor Adventure.md
       - Sec 2 STEAM Camp.md
       - Sec 4NA &4NT Elective Modules.md
       - Sec 4E & 5NA Study Skills and Motivation Workshop.md
