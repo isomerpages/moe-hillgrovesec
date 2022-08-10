@@ -29,8 +29,6 @@ click [here](https://drive.google.com/file/d/1SgWUXBXEFjSanig0mC4rwSO-g-K5djxZ/v
 #### **Programme for Parents (7th January 2022) - Evening**
 click [here](https://drive.google.com/file/d/1178d-QA6yQoX7Bhj_X3g5RstqFR7K0jc/view) for programme details
 
-### 
-
 **HGV - Sec 1 Induction & Orientation Talk (For Parents)**
 
 Date: _**7th January 2022**_  
