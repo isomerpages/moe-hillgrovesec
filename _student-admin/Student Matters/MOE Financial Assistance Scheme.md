@@ -15,7 +15,7 @@ Click [_here_](https://docs.google.com/document/d/1Iaf5F45zSTkmd8fETnHeZrex4w0f7
 #### **TranslitLink eVoucher System**
 
 ---------------------------------------------------------------
-##### **Step-By-Step Redemption Process**
+ **Step-By-Step Redemption Process**
 
 Click [_here_](https://drive.google.com/file/d/1pzyYYDr5DVwoCj-3VlyKiSI8KjeHAt5z/view?usp=sharing) to view/download the form
 
