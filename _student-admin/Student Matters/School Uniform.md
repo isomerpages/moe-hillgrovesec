@@ -17,7 +17,7 @@ Note:
 
 <img src="/images/finest%20fashion%20centre.gif" 
      style="width:35%" align=left>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 **Address:** 144 Upper Bukit Timah Road Beauty World Centre #B1-03 Singapore 588177
 
