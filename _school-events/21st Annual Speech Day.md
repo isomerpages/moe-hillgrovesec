@@ -13,4 +13,5 @@ Our Valedictorian for the Class of 2021, Dinesh Josh Pubalan, delivered his Vale
 
 Congratulations to our award winners! We hope our Hillgrovians have been inspired by their seniors to soar and achieve their fullest potential.
 
-**GIF**
+<img src="/images/21st%20Annual%20Speech%20Day.gif" 
+     style="width:65%">
