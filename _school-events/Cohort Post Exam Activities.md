@@ -15,11 +15,9 @@ Our Secondary Two NT students, on the other hand, were engaged in a Puppetry Wor
 
 
 <img src="/images/S1.gif" 
-     style="width:65%">
-
+     style="width:55%">
 <img src="/images/S2E.gif" 
-     style="width:65%">
-
+     style="width:55%">
 <img src="/images/S2NT.gif" 
-     style="width:65%">
+     style="width:55%">
 Finally, the Secondary Four and Five students spent their time at Hillgrove’s very own Careers Day. Speakers working in different occupations including nursing, finance, cyber security and digital media were invited down to share their working experiences with students. Students attended two sharings based on their personal interest and aspirations. It was an enriching experience as students got an authentic insight into the nature, opportunities, and challenges within a particular job.
