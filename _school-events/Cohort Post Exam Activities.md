@@ -13,9 +13,12 @@ The Secondary Two students had fun with a Poetry Slam Workshop. The workshop cov
 
 Our Secondary Two NT students, on the other hand, were engaged in a Puppetry Workshop where they learnt how to make their own puppets. Students worked together to come up with an interesting storyboard for a puppet show, and learnt how to make use of light and shadow to create visual effects.
 
-**GIF**
 
-**GIF**
+<img src="/images/S1.gif" 
+     style="width:65%">
+
+<img src="/images/" 
+     style="width:65%">
 
 **GIF**
 
