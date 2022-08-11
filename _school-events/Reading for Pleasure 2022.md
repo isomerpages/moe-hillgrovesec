@@ -7,4 +7,5 @@ description: ""
 -----------------------------------------------------------------------------
 From January to February, our Sec 1 students participated in the Reading for Pleasure Workshop as a form of enrichment to nurture their interest in reading. They were introduced to a range of effective reading strategies to help them become more active readers. Students thoroughly enjoyed themselves as they experienced immersive storytelling and a library exploration game.
 
-**GIF**
+<img src="/images/Reading%20for%20Pleasure%202022.gif" 
+     style="width:65%">
