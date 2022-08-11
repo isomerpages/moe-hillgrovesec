@@ -7,4 +7,5 @@ description: ""
 -----------------------------------------------------------------------------
 Our Sec 4E/5N students participated in a Study Skills and Motivation Workshop to gear them up for the year ahead. As part of the workshop, students picked up useful study and time management strategies, as well as learnt more about important interview and personal statement matters. Parents of our Sec 4 students were also invited to join in the closing ceremony of the camp via Zoom on 4 March.
 
-**GIF**
+<img src="/images/Sec%204E5NA%20Study%20Skills%20and%20Motivation%20Workshop.gif" 
+     style="width:65%">
