@@ -2,5 +2,6 @@ collections:
   exam-matters:
     output: true
     order:
+      - Assessment Plan/Assessment Plan.md
       - Assessment Plan/.keep
       - Overview.md
