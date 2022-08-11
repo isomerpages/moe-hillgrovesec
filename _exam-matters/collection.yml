@@ -1,5 +1,5 @@
 collections:
-  assessment-plan:
+  exam-matters:
     output: true
     order:
       - Overview.md
