@@ -9,4 +9,5 @@ Art Educators’ Developmental and Generative Explorations marks the 11th editio
 
 We are proud that Hillgrove’s very own Art teachers, Ms Amanda Soo and Mr Rozaimi (with Mdm Nurul Afia as an artist-contributor) participated in this exhibition to showcase their art pieces to the wider public.
 
-**GIF**
+<img src="/images/AEDGE%202022.gif" 
+     style="width:65%">
