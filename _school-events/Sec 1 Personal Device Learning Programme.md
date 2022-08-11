@@ -9,4 +9,5 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 
 Last week was a special moment for our new Sec 1 students as they too received their own Apple iPads. Our school leaders handed over the iPads to the chairperson of each class. Students excitedly unboxed their iPads, following which Form Teachers brought them through an administrative process of setting up the iPad. We look forward to engaging our Sec 1s through their new PLDs.
 
-**GIF**
+<img src="/images/Sec%201%20Personal%20Device%20Learning%20Programme.gif" 
+     style="width:65%">
