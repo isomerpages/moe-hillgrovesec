@@ -17,4 +17,5 @@ Modern Dance – Certificate of Distinction<Br>
 Concert Band – Certificate of Accomplishment<Br>
 Drama – Certificate of Accomplishment<Br>
 
-**GIF**
+<img src="/images/SYF%2021.gif" 
+     style="width:65%">
