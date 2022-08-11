@@ -17,4 +17,5 @@ Furthermore, some of our NE advocates were able to participate in the Jurong Fir
 
 Last but not least, there was a virtual assembly performance by the Finger Players, titled: “My friend, the Japanese Soldier”, which was aired live on 16th Feb 2022 during PG lesson. The performance showcased the importance of Total Defence and the valuable lessons that we can learn based on the Japanese conquest of Singapore during World War 2.
 
-**GIF**
+<img src="/images/Total%20Defence%20Day%202022.gif" 
+     style="width:65%">
