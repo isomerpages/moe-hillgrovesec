@@ -13,4 +13,5 @@ The highlight of the programme was the Induction Ceremony and Finale Night on 7 
 
 We warmly welcome the Secondary One students into the Hillgrove family, and wish them a fruitful year of learning and growth ahead!
 
-**GIF**
+<img src="/images/2022%20Secondary%201%20Induction.gif" 
+     style="width:65%">
