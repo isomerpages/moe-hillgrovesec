@@ -2,6 +2,7 @@ collections:
   exam-matters:
     output: true
     order:
+      - Important Links.md
       - SEAB Interactive Platform for E Oral Exam.md
       - Assessment Plan/Overview.md
       - Assessment Plan/Assessment Plan 2022.md
