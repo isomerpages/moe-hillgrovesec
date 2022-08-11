@@ -10,4 +10,5 @@ Irham Rizqie Bin Mohammed Sani from Class 4-3, was featured in CNA News and Beri
 You can watch the CNA News covered [here](https://www.mewatch.sg/watch/Dec-2021-CNA-Singapore-Tonight-262497?redirect=true).  
 You can read the article from Berita Harian [here](https://berita.mediacorp.sg/singapura/2-pelajar-melayu-ini-antara-yang-lulus-dalam-peperiksaan-peringkat-n-meski-hadapi-cabaran-620951).
 
-**GIF**
+<img src="/images/Overcoming%20the%20Odds.gif" 
+     style="width:65%">
