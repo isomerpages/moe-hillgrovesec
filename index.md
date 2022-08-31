@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hillgrove Secondary
       background: /images/hillgrove hero banner.gif
       button: Contact Us
       url: /contact-us/
