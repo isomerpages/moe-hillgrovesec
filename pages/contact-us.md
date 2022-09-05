@@ -17,12 +17,4 @@ contacts:
       - email: hillgrove_ss@moe.edu.sg
       - other: ""
     title: Phone & Email Address
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Parents/guardians may use the directory (subject teachers list) to locate
-          the subject teacher they wish to communicate with, email to the
-          school’s generic email address hillgrove_ss@moe.edu.sg stating clearly
-          the class and subject teacher they wish their message be conveyed to.
-    title: Note
 ---
