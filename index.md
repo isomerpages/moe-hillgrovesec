@@ -18,11 +18,6 @@ sections:
           description: ""
           url: /school-events/
   - infobar:
-      title: Form & Subject Teachers List
-      subtitle: To view/download
-      button: click here
-      url: https://drive.google.com/file/d/1ZI8_yIQYSC1yNgjb_V75MGSTP3WD3pqK/view
-  - infobar:
       title: Facebook
       subtitle: Hillgrove Secondary School
       button: Click here
