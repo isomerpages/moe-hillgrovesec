@@ -2,7 +2,6 @@ collections:
   student-admin:
     output: true
     order:
-      - Exam Matters/.keep
       - Character Development/.keep
       - Character Development/Overview.md
       - Character Development/Sexuality Education.md
