@@ -25,4 +25,11 @@ sections:
       subtitle: Hillgrove Secondary School
       button: Click here
       url: https://www.instagram.com/hgv_official/
+  - infopic:
+      title: Infopic Title
+      subtitle: Official Facebook Page
+      description: Infopic description
+      button: CLICK HERE
+      url: https://www.facebook.com/officialHGV
+      alt: Image alt text
 ---
