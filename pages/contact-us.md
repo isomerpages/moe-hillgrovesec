@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Hillgrove Secondary School
 locations:
   - address:
-      - " 10 Bukit Batok"
+      - 10 Bukit Batok
       - Street 52
       - Singapore 659250
     operating_hours: []
