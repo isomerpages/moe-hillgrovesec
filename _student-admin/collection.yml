@@ -2,11 +2,6 @@ collections:
   student-admin:
     output: true
     order:
-      - Character Development/.keep
-      - Character Development/Overview.md
-      - Character Development/Sexuality Education.md
-      - Character Development/Education & Career Guidance.md
-      - Character Development/ECG Counsellor Booking.md
       - Student Leadership.md
       - Sustainable Environment Education.md
       - NEST Portal.md
