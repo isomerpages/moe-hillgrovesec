@@ -41,6 +41,8 @@ links:
         url: /partnerships/Parents-Page/
       - title: Links
         url: /partnerships/Links/
+  - title: Contact Us
+    url: /contact-us/
   - title: Student Admin
     url: /student-admin/Student-Matters/
     sublinks:
