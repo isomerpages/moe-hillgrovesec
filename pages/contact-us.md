@@ -8,9 +8,15 @@ locations:
       - 10 Bukit Batok
       - Street 52
       - Singapore 659250
-    operating_hours: []
+    operating_hours:
+      - days: Monday
+        time: 0700hrs - 1800hrs
+        description: ""
+      - days: Tuesday
+        time: 0700hrs - 1800hrs
+        description: ""
     maps_link: ""
-    title: Location
+    title: School Address
 contacts:
   - content:
       - phone: +65 6560 3726
