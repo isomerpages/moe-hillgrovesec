@@ -2,17 +2,6 @@ collections:
   student-admin:
     output: true
     order:
-      - Student Matters/.keep
-      - Student Matters/School Life Coaching.md
-      - Student Matters/School Fees.md
-      - Student Matters/School Uniform.md
-      - Student Matters/School Timetable.md
-      - Student Matters/School Booklist & Stationery.md
-      - Student Matters/School Rules & Regulations.md
-      - Student Matters/School Calender.md
-      - Student Matters/MOE Financial Assistance Scheme.md
-      - Student Matters/ECG Counsellor Booking.md
-      - Student Matters/Joint Admissions Exercise.md
       - Exam Matters/.keep
       - Character Development/.keep
       - Character Development/Overview.md
