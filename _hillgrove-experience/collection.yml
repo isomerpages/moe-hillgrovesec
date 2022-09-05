@@ -2,17 +2,6 @@ collections:
   hillgrove-experience:
     output: true
     order:
-      - Departments/.keep
-      - Departments/Aesthetics and Nutrition & Food Science.md
-      - Departments/Applied Subjects and Design & Technology.md
-      - Departments/Character Development & Guidance.md
-      - Departments/English Language & Literature.md
-      - Departments/Humanities.md
-      - Departments/Information & Communication Technology.md
-      - Departments/Mathematics.md
-      - Departments/Mother Tongue Languages.md
-      - Departments/Physical Education.md
-      - Departments/Science.md
       - Co Curricular Activities.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Applied Learning Programme.md
