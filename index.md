@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hillgrove hero banner.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
