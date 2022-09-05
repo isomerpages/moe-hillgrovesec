@@ -9,10 +9,19 @@ locations:
       - Street 52
       - Singapore 659250
     operating_hours:
-      - days: Monday
+      - days: Mondays
         time: 0700hrs - 1800hrs
         description: ""
-      - days: Tuesday
+      - days: Tuesdays
+        time: 0700hrs - 1800hrs
+        description: ""
+      - days: Wednesdays
+        time: 0700hrs - 1800hrs
+        description: ""
+      - days: Thursdays
+        time: 0700hrs - 1800hrs
+        description: ""
+      - days: Fridays
         time: 0700hrs - 1800hrs
         description: ""
     maps_link: ""
