@@ -14,9 +14,9 @@ locations:
 contacts:
   - content:
       - phone: +65 6560 3726
-      - email: ""
-      - other: " hillgrove_ss@moe.edu.sg"
-    title: General Enquiries & Feedback
+      - email: hillgrove_ss@moe.edu.sg
+      - other: ""
+    title: Phone & Email Address
   - content:
       - phone: ""
       - email: ""
