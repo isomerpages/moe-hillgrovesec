@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Distinctive Programmes/.keep
-      - Distinctive Programmes/Applied Learning Programme.md
-      - Distinctive Programmes/Learning for Life Programme.md
       - National Digital Literacy/.keep
       - National Digital Literacy/Overview.md
       - National Digital Literacy/DMA Matters.md
