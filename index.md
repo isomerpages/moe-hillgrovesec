@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Hillgrove Secondary School
-description: Brief site description here
+description: Official website of  Hillgrove Secondary School (Singapore)
 image: /images/Hillgrove_Secondary_School_Logo.png
 permalink: /
 notification: ""
@@ -30,3 +30,4 @@ sections:
       image: /images/Social Media Channels/Logo_Insta.jpg
       alt: Image alt text
 ---
+
