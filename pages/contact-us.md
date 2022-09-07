@@ -29,14 +29,14 @@ locations:
 contacts:
   - content:
       - phone: +65 6560 3726
-      - email: hillgrove_ss@moe.edu.sg
+      - email: ""
       - other: ""
-    title: Phone & Email Address
+    title: Phone
   - content:
       - phone: ""
-      - email: ""
-      - other: https://www.facebook.com/officialHGV
-    title: Official Facebook Page
+      - email: hillgrove_ss@moe.edu.sg
+      - other: ""
+    title: Email Address
   - content:
       - phone: ""
       - email: ""
