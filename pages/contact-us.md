@@ -37,9 +37,4 @@ contacts:
       - email: hillgrove_ss@moe.edu.sg
       - other: ""
     title: Email Address
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://www.instagram.com/hgv_official
-    title: Official Instagram Channel
 ---
