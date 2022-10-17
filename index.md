@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hillgrove hero banner.gif
+      background: /images/Main Site Banner/2022 HGV Short Open House Banner.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -16,4 +16,3 @@ sections:
           description: ""
           url: /school-events/
 ---
-
