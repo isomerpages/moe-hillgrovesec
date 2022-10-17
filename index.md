@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Site Banner/2022 HGV Short Open House Banner.jpg
+      background: /images/Main Site Banner/2022 HGV Open House Banner.jpg
       key_highlights:
         - title: Announcements
           description: ""
