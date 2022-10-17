@@ -2,19 +2,19 @@ title: Hillgrove Secondary School
 url: https://wwww.hillgrovesec.moe.edu.sg
 favicon: /images/Important Pics/HGVjustLogo.png
 colors:
-  primary-color: "#a9bf73"
-  secondary-color: "#f5f1e0"
+  primary-color: "#677423"
+  secondary-color: "#f1ece2"
   media-colors:
     - title: media-color-one
-      color: "#a9bf73"
+      color: "#5a3e29"
     - title: media-color-two
-      color: "#dce4b4"
+      color: "#8a5d3d"
     - title: media-color-three
-      color: "#f5f1e0"
+      color: "#f1ece2"
     - title: media-color-four
-      color: "#a98467"
+      color: "#bbc191"
     - title: media-color-five
-      color: "#6c584d"
+      color: "#677423"
 description: Official website of Hillgrove Secondary School (Singapore)
 permalink: none
 baseurl: ""
