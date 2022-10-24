@@ -3,7 +3,6 @@ title: FAQs
 permalink: /faqs/
 description: ""
 ---
-
 **How to contact our Form Teachers?**
 
 To contact our Form Teachers, you can either call the school at 6560 3726 or write an email to us at [hillgrove_ss@moe.edu.sg](mailto:hillgrove_ss@moe.edu.sg). Our General Office colleagues, who answer the call or read your email, will notify the respective Form Teachers you wish to contact and the Form Teacher will then contact you. 
@@ -31,10 +30,6 @@ You may contact the school via telephone or email to contact the following staff
 | 3 | Student Administration | Mr Ee Yin Ren Gus (Administration Manager) |
 | 4 | Student Discipline | Mr Teo Yee Ann (HOD, Discipline) |
 | 5 | ICT Systems | Mdm Lee Li Lian (HOD, ICT) |
-
-_\*updated as of 5th  April 2018_   
-
-  
 
 **I have further questions. Would the school answer them and then post it to this FAQ page?** 
 
