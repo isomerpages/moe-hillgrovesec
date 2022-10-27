@@ -2,5 +2,4 @@ collections:
   student-admin:
     output: true
     order:
-      - Student Leadership.md
       - Sustainable Environment Education.md
