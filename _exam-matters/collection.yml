@@ -2,5 +2,4 @@ collections:
   exam-matters:
     output: true
     order:
-      - Important Links.md
       - SEAB Interactive Platform for E Oral Exam.md
