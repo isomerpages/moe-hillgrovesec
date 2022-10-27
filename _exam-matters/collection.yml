@@ -2,7 +2,6 @@ collections:
   exam-matters:
     output: true
     order:
-      - Exam Timetables.md
       - National Exam Matters.md
       - Important Links.md
       - SEAB Interactive Platform for E Oral Exam.md
