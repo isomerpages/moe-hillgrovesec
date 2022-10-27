@@ -1,5 +1,4 @@
 collections:
   partnerships:
     output: true
-    order:
-      - School Advisory Committee (SAC).md
+    order: []
