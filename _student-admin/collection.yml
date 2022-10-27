@@ -1,4 +1,5 @@
 collections:
   student-admin:
     output: true
-    order: []
+    order:
+      - Student Admin.md
