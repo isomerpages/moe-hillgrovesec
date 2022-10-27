@@ -1,5 +1,4 @@
 collections:
   hillgrove-experience:
     output: true
-    order:
-      - Hillgrove Experience.md
+    order: []
