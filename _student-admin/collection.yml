@@ -1,5 +1,4 @@
 collections:
   student-admin:
     output: true
-    order:
-      - Sustainable Environment Education.md
+    order: []
