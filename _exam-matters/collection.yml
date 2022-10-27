@@ -2,9 +2,6 @@ collections:
   exam-matters:
     output: true
     order:
-      - Assessment Plan/.keep
-      - Assessment Plan/Overview.md
-      - Assessment Plan/Assessment Plan 2022.md
       - Exam Timetables.md
       - National Exam Matters.md
       - Important Links.md
