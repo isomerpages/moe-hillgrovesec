@@ -1,5 +1,4 @@
 collections:
   exam-matters:
     output: true
-    order:
-      - SEAB Interactive Platform for E Oral Exam.md
+    order: []
