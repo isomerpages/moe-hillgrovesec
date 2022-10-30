@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/
+          url: https://sites.google.com/moe.edu.sg/hgv-announcements/home
         - title: School Events
           description: ""
           url: /school-events/
