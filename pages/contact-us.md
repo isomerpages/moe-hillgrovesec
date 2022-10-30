@@ -10,19 +10,19 @@ locations:
       - Singapore 659250
     operating_hours:
       - days: Mondays
-        time: 0700hrs - 1800hrs
+        time: 0700hrs - 1830hrs
         description: ""
       - days: Tuesdays
-        time: 0700hrs - 1800hrs
+        time: 0700hrs - 1830hrs
         description: ""
       - days: Wednesdays
-        time: 0700hrs - 1800hrs
+        time: 0700hrs - 1830hrs
         description: ""
       - days: Thursdays
-        time: 0700hrs - 1800hrs
+        time: 0700hrs - 1830hrs
         description: ""
       - days: Fridays
-        time: 0700hrs - 1800hrs
+        time: 0700hrs - 1830hrs
         description: ""
     maps_link: ""
     title: School Address
