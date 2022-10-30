@@ -14,6 +14,6 @@ sections:
           url: https://sites.google.com/moe.edu.sg/hgv-announcements/home
         - title: School Events
           description: ""
-          url: /school-events/
+          url: https://sites.google.com/moe.edu.sg/hgv-schoolevents/home
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
 ---
