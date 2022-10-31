@@ -2,7 +2,7 @@
 layout: homepage
 title: Hillgrove Secondary School
 description: Official website of Hillgrove Secondary School (Singapore)
-image: /images/Hillgrove_Secondary_School_Logo.png
+image: /images/Important Pics/Official School Logo.png
 permalink: /
 notification: ""
 sections:
@@ -18,3 +18,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
       button: Click here to enter microsite
 ---
+
