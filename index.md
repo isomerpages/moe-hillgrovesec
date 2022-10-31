@@ -16,4 +16,5 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-schoolevents/home
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
+      button: Click here to enter microsite
 ---
