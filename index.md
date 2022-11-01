@@ -4,8 +4,7 @@ title: Hillgrove Secondary School
 description: Official website of Hillgrove Secondary School (Singapore)
 image: /images/Important Pics/Official School Logo.png
 permalink: /
-notification: Head over to our Hillgrove Open House Microsite by navigating to
-  Hillgrove Experience >> Hillgrove Open House
+notification: ""
 sections:
   - hero:
       background: /images/Main Site Banner/2022 HGV Open House Banner.jpg
