@@ -16,4 +16,15 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-schoolevents/home
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
