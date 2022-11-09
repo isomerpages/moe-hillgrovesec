@@ -17,7 +17,7 @@ Thank you for visiting Hillgrove Secondary School (HGVSS) official website. By a
 
 # Privacy Policy
 
-4. Click here to review this website Privacy Statement.
+4. Click ***[here](/privacy/)*** to review this website Privacy Statement.
 
 # Restrictions on use of Materials
 
