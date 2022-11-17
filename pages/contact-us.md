@@ -2,31 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Hillgrove Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 10 Bukit Batok
+      - Street 52
+      - Singapore 659250
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mondays
+        time: 0700hrs - 1830hrs
+        description: ""
+      - days: Tuesdays
+        time: 0700hrs - 1830hrs
+        description: ""
+      - days: Wednesdays
+        time: 0700hrs - 1830hrs
+        description: ""
+      - days: Thursdays
+        time: 0700hrs - 1830hrs
+        description: ""
+      - days: Fridays
+        time: 0700hrs - 1830hrs
+        description: ""
+    maps_link: ""
+    title: School Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6560 3726
+      - email: ""
+      - other: ""
+    title: Phone
+  - content:
+      - phone: ""
+      - email: hillgrove_ss@moe.edu.sg
+      - other: ""
+    title: Email Address
 ---

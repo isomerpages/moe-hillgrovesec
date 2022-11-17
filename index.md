@@ -1,32 +1,20 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Hillgrove Secondary School
+description: Official website of Hillgrove Secondary School (Singapore)
+image: /images/Important Pics/Official School Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Head over to the Hillgrove Experience on the menu bar and head
+  over to our Hillgrove Open House Microsite
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Main Site Banner/2022 HGV Open House Banner.jpg
+      key_highlights:
+        - title: Announcements
+          description: "Last Update: 25/10/2022"
+          url: https://sites.google.com/moe.edu.sg/hgv-announcements/home
+        - title: School Events
+          description: "Last Update: 20/09/2022"
+          url: https://sites.google.com/moe.edu.sg/hgv-schoolevents/home
+      url: https://sites.google.com/moe.edu.sg/hgv-openhouse
 ---
-
