@@ -10,10 +10,10 @@ sections:
       background: /images/Main Site Banner/Hero Banner 1.png
       key_highlights:
         - title: Announcements
-          description: "Last Update: 25/10/2022"
+          description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-announcements/home
         - title: School Events
-          description: "Last Update: 20/09/2022"
+          description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-schoolevents/home
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
 ---
