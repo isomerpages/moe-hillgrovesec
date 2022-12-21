@@ -19,5 +19,4 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-pg
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
-      button: Click Here For Secondary 1 Registration 2023
 ---
