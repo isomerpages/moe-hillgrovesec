@@ -3,7 +3,7 @@ url: https://www.hillgrovesec.moe.edu.sg
 favicon: /images/Important Pics/HGVjustLogo.png
 colors:
   primary-color: "#147500"
-  secondary-color: "#5a3e29"
+  secondary-color: "#147500"
   media-colors:
     - title: media-color-one
       color: "#5a3e29"
