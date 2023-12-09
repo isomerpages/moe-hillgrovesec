@@ -18,8 +18,5 @@ sections:
         - title: Notifications to Parents
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-pg
-        - title: Hillgrove Open House
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/hgv-openhouse
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
 ---
