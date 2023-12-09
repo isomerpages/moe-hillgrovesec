@@ -18,5 +18,8 @@ sections:
         - title: Notifications to Parents
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-pg
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
 ---
