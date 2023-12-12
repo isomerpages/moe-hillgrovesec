@@ -18,5 +18,8 @@ sections:
         - title: Notifications to Parents
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-pg
+        - title: Secondary 1 (2024) Microsite
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/hgv-sec1
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
 ---
