@@ -1,0 +1,5 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Partnerships.md

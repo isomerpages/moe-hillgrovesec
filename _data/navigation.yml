@@ -1,0 +1,68 @@
+logo: /images/Important Pics/Official School Logo.png
+links:
+  - title: About Us
+    url: /about-us/about-us
+    sublinks:
+      - title: Principal's Message
+        url: https://sites.google.com/moe.edu.sg/principal-message
+      - title: School Overview
+        url: https://sites.google.com/moe.edu.sg/school-overview
+      - title: Organisation Chart
+        url: https://sites.google.com/moe.edu.sg/organisation-chart
+      - title: School History
+        url: https://sites.google.com/moe.edu.sg/hgv-school-history
+  - title: Hillgrove Experience
+    url: /hillgrove-experience/hillgrove-experience
+    sublinks:
+      - title: Departments
+        url: https://sites.google.com/moe.edu.sg/hgv-departments
+      - title: Co-Curricular Activities
+        url: https://sites.google.com/moe.edu.sg/hgv-cca
+      - title: Distinctive Programmes
+        url: https://sites.google.com/moe.edu.sg/hgv-distinctive-programmes
+      - title: Alumni Achievements
+        url: https://sites.google.com/moe.edu.sg/hgv-alumni-achievements
+      - title: National Digital Literacy Prog
+        url: https://sites.google.com/moe.edu.sg/hgv-ndlp
+      - title: Hillgrove Open House
+        url: https://sites.google.com/moe.edu.sg/hgv-openhouse
+      - title: Secondary 1 Welcome Microsite
+        url: https://sites.google.com/moe.edu.sg/hgv-sec1
+      - title: Direct School Admission
+        url: https://sites.google.com/moe.edu.sg/hgv-dsa
+      - title: School Canteen
+        url: https://sites.google.com/moe.edu.sg/hgvss-school-canteen
+  - title: Partnerships
+    url: /partnerships/partnerships
+    sublinks:
+      - title: School Advisory Committee
+        url: https://sites.google.com/moe.edu.sg/hgv-sac
+      - title: Parents Support Group
+        url: https://sites.google.com/view/hillgrovepsg
+      - title: Hillgrove Alumni
+        url: https://sites.google.com/moe.edu.sg/hgv-alumni
+      - title: Parents Page
+        url: https://sites.google.com/moe.edu.sg/hgv-parentspage
+      - title: Links
+        url: https://sites.google.com/moe.edu.sg/hgv-links
+  - title: Contact Us
+    url: /contact-us/
+  - title: Student Admin
+    url: /student-admin/student-admin/
+    sublinks:
+      - title: Student Matters
+        url: https://sites.google.com/moe.edu.sg/hgv-student-matters
+      - title: Exam Matters
+        url: https://sites.google.com/moe.edu.sg/hgv-exam-matters
+      - title: Character Development
+        url: https://sites.google.com/moe.edu.sg/hgv-cdg/character-development
+      - title: Student Leadership
+        url: https://sites.google.com/moe.edu.sg/hgv-student-leadership
+      - title: Sustainable Environment Edu
+        url: https://sites.google.com/moe.edu.sg/hgv-see
+      - title: NEST Portal
+        url: https://sites.google.com/moe.edu.sg/hgv-nest
+      - title: Home-Based Learning
+        url: https://sites.google.com/moe.edu.sg/hgv-hbl
+      - title: Reset Student Account
+        url: https://for.edu.sg/hgv-ict-reset

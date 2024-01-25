@@ -1,0 +1,5 @@
+collections:
+  student-admin:
+    output: true
+    order:
+      - Student Admin.md
