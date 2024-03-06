@@ -4,7 +4,7 @@ permalink: /staff-list/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key Personnel </strong>
+<p><strong>Key Personnel</strong>
 </p>
 <p></p>
 <table>
