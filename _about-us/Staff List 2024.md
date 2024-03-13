@@ -704,7 +704,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>      Sec 2 Form Teacher</strong>
+<p><strong>Sec 2 Form Teacher</strong>
 </p>
 </td>
 </tr>
@@ -1101,7 +1101,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-8</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1116,9 +1116,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1129,14 +1126,219 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="4">
+<p>Sec 4 / 5 Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-1</p>
+</td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Mei Yan Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhuang Xinru</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jorrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Yian Sin Kate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nor Azmi Bin Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurhanum Bte Shrudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Usha Devi Somasuntharam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Lee Hsiao Ping Connie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Phong Enyi Magdalene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Yaonan Davis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Tan Wei Shang Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Zhang Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Xinping Jonathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomas Lau Hin Yeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>4-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dalvinder Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sabrina Amir Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Joo Bee Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1147,10 +1349,30 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Siew Kong Derrick</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Executive &amp; Administration Staff</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gus EE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1158,27 +1380,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Sukardi Sukami</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1186,13 +1394,111 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adjunct Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tachna Murari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adjunct ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Az-Dzaaharii Daud</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sophia Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurul Batrisyia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Norhashimah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adjunct Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noraihan Gausmiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yasim Akthar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
