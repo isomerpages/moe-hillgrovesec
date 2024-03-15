@@ -2,6 +2,7 @@
 title: About Us
 permalink: /about-us/about-us/
 description: ""
+variant: markdown
 ---
 # Navigation
 * [***Principal's Message***](https://sites.google.com/moe.edu.sg/principal-message)
