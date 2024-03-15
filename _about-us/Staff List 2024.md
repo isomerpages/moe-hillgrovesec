@@ -1127,7 +1127,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Sec 4 / 5 Form Teacher</p>
+<p><strong>Sec 4 / 5 Form Teacher</strong>
+</p>
 </td>
 </tr>
 <tr>
