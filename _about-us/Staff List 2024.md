@@ -178,20 +178,6 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S Thiruselvan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Tan Chong Kiat Eddie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1401,7 +1387,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tachna Murari</p>
+<p>Thachna M.B.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1653,7 +1639,7 @@ description: ""
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Juleha Jumari</p>
+<p>Jayasithrah Elangovan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
