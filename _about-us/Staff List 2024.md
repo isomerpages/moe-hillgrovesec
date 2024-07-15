@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1381,7 +1387,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct Operation Manager</p>
+<p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
