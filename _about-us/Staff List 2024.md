@@ -209,20 +209,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Yee Ann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Discipline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,7 +397,7 @@ description: ""
 <p>Soo Li Xin Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting SH/Aesthetics</p>
+<p>SH/Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -1375,6 +1361,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Gus EE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senyuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
