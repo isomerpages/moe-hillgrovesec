@@ -30,4 +30,5 @@ sections:
       button: VIEW OUR OPEN HOUSE 2024 Microsite
       url: https://sites.google.com/moe.edu.sg/hgv-openhouse
       alt: Image alt text
+      image: /images/2024_Open_House_Website_Banner.jpg
 ---
