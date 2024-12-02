@@ -22,13 +22,4 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-sec1
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
-  - infopic:
-      title: HGVSS Open House
-      subtitle: JOIN US!
-      id: infopic
-      description: Join us on 23 November from 8.30am to 12.30pm!
-      button: VIEW OUR OPEN HOUSE 2024 Microsite
-      url: https://sites.google.com/moe.edu.sg/hgv-openhouse
-      alt: Image alt text
-      image: /images/2024_Open_House_Website_Banner.jpg
 ---
