@@ -501,7 +501,7 @@ description: ""
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chee En Yi Sophia</p>
+<p>Lam Hiu Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -510,24 +510,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gale Tan</p>
+<p>Tan Han Rong Joel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong Yew Sheng Nicholas</p>
+<p>Chan Jie Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -535,25 +535,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victor Yoong</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ummul Sharmeen Farha</p>
+<p>Jenny Lim Ting Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
@@ -561,10 +549,10 @@ description: ""
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nor Cahya</p>
+<p>Zhuang Xinru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -572,13 +560,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Han Yun</p>
+<p>Huang Yaonan Davis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
@@ -586,10 +574,10 @@ description: ""
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Salina</p>
+<p>Chew-Toh Mee Keow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -597,13 +585,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zurainy</p>
+<p>Chan-Tan Chiew Bee Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
@@ -611,10 +599,10 @@ description: ""
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jun Eng Sean</p>
+<p>Usha Somasuntharam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -622,49 +610,38 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurhanum</p>
+<p>Tan Kay Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1-6</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pan Ming'En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kailash Charanya</p>
+<p>Sin Wai Leng Annabelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tam Kok Kiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chuo Hock Huay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Co-Form Teacher</p>
 </td>
 </tr>
 <tr>
@@ -672,10 +649,10 @@ description: ""
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Kuan Kuan</p>
+<p>Farhanah Mos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -686,10 +663,35 @@ description: ""
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mae Lim</p>
+<p>Josephine Lim Sieu Ein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Wee Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Him Yeng Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
 </td>
 </tr>
 <tr>
