@@ -44,7 +44,7 @@ description: ""
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Helen Tan Lee</p>
+<p>Helen Tan-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -327,7 +327,7 @@ description: ""
 <p>Pan-Cai Yijin Jane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>HOD/CCE</p>
 </td>
 </tr>
 <tr>
@@ -426,20 +426,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/POA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Xinping Jonathan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST/Physics</p>
 </td>
 </tr>
 <tr>
@@ -889,7 +875,7 @@ description: ""
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Joo Bee Gracer</p>
+<p>Ang Joo Bee Grace</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1187,7 +1173,7 @@ description: ""
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shen-Lee Ai Shi Esther l</p>
+<p>Shen-Lee Ai Shi Esther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -1377,7 +1363,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct Corporate Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
@@ -1565,7 +1551,7 @@ description: ""
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayasithrah Elangovan</p>
+<p>Raveneswari D/O Tannirselvam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
