@@ -957,8 +957,33 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samantha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Connie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -972,7 +997,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3-6</p>
+<p>3-7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs</p>
@@ -997,7 +1022,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>3-7</p>
+<p>3-8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
@@ -1015,31 +1040,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Jorrick</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>3-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Chiew Ping Samantha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Hsiao Ping Connie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
