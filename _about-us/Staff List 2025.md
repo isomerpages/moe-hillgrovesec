@@ -1503,6 +1503,20 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Josephine Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1524,6 +1538,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Pang Wai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allison Ch'ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1593,7 +1621,7 @@ description: ""
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zaleha Ahmad</p>
+<p>Norfaizah Bte Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
