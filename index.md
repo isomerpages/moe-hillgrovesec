@@ -22,4 +22,5 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-sec1
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
+      variant: image
 ---
