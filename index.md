@@ -26,8 +26,8 @@ sections:
   - infopic:
       title: Open House 2025
       id: infopic
-      button: Button Text
-      url: Click for Information
+      button: Click for information
+      url: https://sites.google.com/moe.edu.sg/hgv-openhouse
       image: /images/Main Site Banner/2025_Open_House_MOTD.jpg
       alt: Image alt text
 ---
