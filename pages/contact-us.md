@@ -37,4 +37,10 @@ contacts:
       - email: hillgrove_ss@moe.edu.sg
       - other: ""
     title: Email Address
+  - content:
+      - phone: +65 6563 0920
+      - email: ""
+      - other: ""
+    title: Fax
+feedback: https://form.gov.sg/#!/5bbbedd681157e000f499119
 ---
