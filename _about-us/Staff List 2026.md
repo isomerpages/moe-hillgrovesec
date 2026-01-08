@@ -72,6 +72,20 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Lim See Wai Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Chiang Hock Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,20 +160,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim See Wai Edwin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Science</p>
 </td>
 </tr>
 <tr>
@@ -409,20 +409,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Syed Abdillah Bin Said Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Asst Year-Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teh Gaik Lean</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst Year-Head</p>
