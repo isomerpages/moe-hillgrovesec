@@ -883,10 +883,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Wee Sze</p>
+<p>Low Kok Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
