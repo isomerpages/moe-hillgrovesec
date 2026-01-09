@@ -282,20 +282,6 @@ description: ""
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Yee Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher/Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dalvinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -552,6 +538,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Yee Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Physics</p>
 </td>
 </tr>
 <tr>
