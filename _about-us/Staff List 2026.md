@@ -237,6 +237,34 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abdul Aziz Bin Mohamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sabrina Amir Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Science (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +285,7 @@ description: ""
 <p>Chia Yee Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Science</p>
+<p>Senior Teacher/Physics</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +355,7 @@ description: ""
 <p>Joel Tan Han Rong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-being &amp; P'ship</p>
+<p>SH/Wellbeing and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -356,20 +384,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/SS &amp; NE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sabrina Amir Soh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -409,6 +423,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Syed Abdillah Bin Said Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year-Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jun Eng Sean</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst Year-Head</p>
@@ -569,7 +597,7 @@ description: ""
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Salina Bte MohamedSultan</p>
+<p>Salina Bte Mohamed Sultan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
@@ -811,7 +839,7 @@ description: ""
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Tan Chiew Bee Yvonne</p>
+<p>Chan -Tan Chiew Bee Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
