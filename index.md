@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Site Banner/website_banner2.png
+      background: /images/25_Anniversary.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -22,5 +22,5 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/hgv-sec1
       url: https://sites.google.com/moe.edu.sg/hgv-sec1
-      variant: image
+      variant: center
 ---
