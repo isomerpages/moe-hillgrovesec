@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - About Us.md
       - Staff List 2026.md
