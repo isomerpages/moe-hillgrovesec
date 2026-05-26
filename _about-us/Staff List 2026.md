@@ -755,8 +755,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>  </strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="3">
 <p><strong>Sec 2 Form Teacher</strong>
