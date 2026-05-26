@@ -754,7 +754,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
 <p><strong>Sec 2 Form Teacher</strong>
 </p>
 </td>
@@ -960,7 +963,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
 <p><strong>Sec 3 Form Teacher</strong>
 </p>
 </td>
@@ -1166,7 +1172,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="3">
 <p><strong>Sec 4 / 5 Form Teacher</strong>
 </p>
 </td>
