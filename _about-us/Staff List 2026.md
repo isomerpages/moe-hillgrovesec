@@ -128,7 +128,7 @@ description: ""
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Juliana Jaafar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
@@ -139,10 +139,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kwa Bee Hoon</p>
+<p>MOHAMED NAZRI BIN HAMZAH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Humanities</p>
@@ -156,7 +156,7 @@ description: ""
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Li Lian</p>
+<p>Ong Ka Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
@@ -1632,7 +1632,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Phua Lip Koon</p>
+<p>Michael Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
