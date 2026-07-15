@@ -114,6 +114,20 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Joel Tan Han Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec) Ag</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mohamed Nazri Bin Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +243,7 @@ description: ""
 <p>Sabrina Amir Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science (Ag)</p>
+<p>HOD/Science</p>
 </td>
 </tr>
 <tr>
@@ -300,20 +314,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/D&amp;T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Joel Tan Han Rong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/Wellbeing and Student Leadership</p>
 </td>
 </tr>
 <tr>
