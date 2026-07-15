@@ -142,7 +142,7 @@ description: ""
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOHAMED NAZRI BIN HAMZAH</p>
+<p>Mohamed Nazri Bin Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Humanities</p>
