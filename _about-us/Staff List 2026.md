@@ -97,20 +97,6 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,20 +104,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Math</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
 </td>
 </tr>
 <tr>
@@ -1715,20 +1687,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Shulian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1757,27 +1715,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p>ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jasmine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raveneswari D/O Tannirselvam</p>
+<p>Ng Yuqin Kimberly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
